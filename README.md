@@ -1,0 +1,2 @@
+# beginner-bootcamp
+Collaborative project
